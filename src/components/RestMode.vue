@@ -78,7 +78,7 @@ const timer = () => {
 @media only screen and (max-width:425px) {
     .main-container {
         h1 {
-            font-size: 7rem;
+            font-size: 5.5rem;
         }
     }        
 }   
